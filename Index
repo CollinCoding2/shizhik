@@ -1,0 +1,13 @@
+<head>
+<title>Download Shizhik Now!</title>
+//website layout
+<body>
+    <body>
+  <h1 style="color:##060FE2";>Shizhik Chatting</h1>
+  <h2>Get Completly Free Today!*</h2>
+  <h3>Unblocked by any spyware like GoGuardian!</h3>
+  <p>*Donate to get more features, like gc and more users monthly.</p>
+  <button onclick="window.location.href='https://shizhik.glideapp.io';">
+      Open Shizhik
+    </button>
+</body>
